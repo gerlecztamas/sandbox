@@ -1,1 +1,2 @@
-console.log("H!");
+let a = 10;
+
